@@ -12,8 +12,14 @@ Soy un apasionado de la tecnología ubicado en Vigo, Galicia. Actualmente, estoy
 ## Habilidades Técnicas
 
 ### Informática y Sistemas
-* Sistemas y Virtualización: Administración de sistemas operativos (Windows, Linux) y gestión de máquinas virtuales.
 * Soporte y Hardware: Diagnóstico y reparación avanzada de ordenadores y dispositivos móviles.
+* Sistemas y Virtualización: Administración de sistemas operativos (Windows, Linux) y gestión de máquinas virtuales.
+
+### Competencias Profesionales
+* Excelente comunicación interpersonal.
+* Orientación al cliente y resolución de incidencias.
+* Adaptabilidad y aprendizaje continuo.
+* Atención al detalle.
 
 ### Idiomas
 * Español: Nativo.
